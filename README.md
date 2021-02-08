@@ -32,3 +32,4 @@ The classification report generated was used to compare the performance of the a
 ![](images/ada_boost.png)
 
 ## Summary
+From the classifications report, we can see that the Ensemble Learning: AdaBoost Classifier yielded the highest F1 score, which is the average accuracy of the test, which is calcuated from the precision and accuracy (recall) statistics from the testing results.
