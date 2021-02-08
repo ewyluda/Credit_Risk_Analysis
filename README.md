@@ -18,16 +18,16 @@ The dataset was first split into testing and training sets and the values were e
 
 The classification report generated was used to compare the performance of the algorithms.
 
-* Oversampling: Naive Random Sampling
+### Oversampling: Naive Random Sampling
 
-* Oversampling: SMOTE Oversampling
+### Oversampling: SMOTE Oversampling
 
-* Undersampling: CluserCentroids 
+### Undersampling: CluserCentroids 
 
-* Combination Over & Under Sampling: SMOTEENN
+### Combination Over & Under Sampling: SMOTEENN
 
-* Ensemble Learners: Balanced Random Forest Classifier
+### Ensemble Learners: Balanced Random Forest Classifier
 
-* Ensemble Learners: Easy Ensemble AdaBoost Classifier
+### Ensemble Learners: Easy Ensemble AdaBoost Classifier
 
 ## Summary
