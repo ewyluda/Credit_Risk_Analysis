@@ -7,8 +7,27 @@ Using the credit card credit dataset from LendingClub (provided), a peer-to-peer
 
 
 ## Results
+The purpose of this project was to demonstrate understanding of various machine learning methods and interpreting the results of the study. 
+The following machine learning methods were used:
+* Oversampling (Naive Random Sampling & SMOTE Oversampling)
+* Undersampling (using ClusterCentroids resampler)
+* Combination (Over and Under Sampling, using SMOTEENN)
+* Ensemble Learners (Balanced Random Forest Classifier & Easy Ensemble AdaBoost Classifier)
 
+The dataset was first split into testing and training sets and the values were encoded using the get_dummies() method in pandas.
 
+The classification report generated was used to compare the performance of the algorithms.
 
+* Oversampling: Naive Random Sampling
+
+* Oversampling: SMOTE Oversampling
+
+* Undersampling: CluserCentroids 
+
+* Combination Over & Under Sampling: SMOTEENN
+
+* Ensemble Learners: Balanced Random Forest Classifier
+
+* Ensemble Learners: Easy Ensemble AdaBoost Classifier
 
 ## Summary
